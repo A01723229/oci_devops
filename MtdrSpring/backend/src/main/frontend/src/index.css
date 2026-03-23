@@ -6,7 +6,7 @@
 */
 body {
     /* from the redwood theme */
-    background-color: #3A3632;
+    background-color: #ff0000;
     width: 100%;
     max-width: 50rem;
     margin: 0 auto;
@@ -17,7 +17,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
   }
   .App {
-    background: #201E1C;
+    background: #ff0000;
     color: #FEF9F2;
     display: flex;
     flex-direction: column;
